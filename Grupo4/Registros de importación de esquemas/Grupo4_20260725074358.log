@@ -1,0 +1,88 @@
+25/7/2026 15:43:58	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'Grupo4' del equipo 'LAB46-PC36' por el usuario 'JORGE N'.
+25/7/2026 15:43:58	Se inició la importación del esquema de la base de datos.
+25/7/2026 15:44:10	Recopilando credenciales de la base de datos
+25/7/2026 15:44:10	Recopilando opciones de base de datos
+25/7/2026 15:44:10	Recopilando la opción de configuración de ámbito de la base de datos genérica
+25/7/2026 15:44:10	Recopilando usuarios
+25/7/2026 15:44:10	Recopilando roles
+25/7/2026 15:44:10	Recopilando roles de aplicación
+25/7/2026 15:44:10	Recopilando pertenencias a roles
+25/7/2026 15:44:10	Recopilando grupos de archivos
+25/7/2026 15:44:10	Recopilando catálogos de texto completo
+25/7/2026 15:44:10	Recopilando ensamblados
+25/7/2026 15:44:10	Recopilando certificados
+25/7/2026 15:44:10	Recopilando claves asimétricas
+25/7/2026 15:44:10	Recopilando claves simétricas
+25/7/2026 15:44:10	Recopilando claves simétricas cifradas
+25/7/2026 15:44:10	Recopilando esquemas
+25/7/2026 15:44:10	Recopilando colecciones de esquemas XML
+25/7/2026 15:44:10	Recopilando tipos de datos definidos por el usuario
+25/7/2026 15:44:10	Recopilando tipos definidos por el usuario
+25/7/2026 15:44:10	Recopilando tipos de tabla
+25/7/2026 15:44:10	Recopilando claves únicas para tipos de tabla
+25/7/2026 15:44:10	Recopilando claves principales para tipos de tabla
+25/7/2026 15:44:11	Recopilando índices para tipos de tablas
+25/7/2026 15:44:11	Recopilando restricciones CHECK para tipos de tabla
+25/7/2026 15:44:11	Recopilando restricciones DEFAULT para tipos de tabla
+25/7/2026 15:44:11	Recopilando funciones de partición
+25/7/2026 15:44:11	Recopilando esquemas de partición
+25/7/2026 15:44:11	Recopilando funciones
+25/7/2026 15:44:11	Recopilando funciones cifradas
+25/7/2026 15:44:11	Recopilando agregados
+25/7/2026 15:44:11	Recopilando procedimientos
+25/7/2026 15:44:11	Recopilando procedimientos cifrados
+25/7/2026 15:44:11	Recopilando tablas
+25/7/2026 15:44:11	Recopilando claves principales
+25/7/2026 15:44:11	Recopilando restricciones UNIQUE
+25/7/2026 15:44:11	Recopilando claves externas
+25/7/2026 15:44:11	Recopilando restricciones DEFAULT
+25/7/2026 15:44:11	Recopilando restricciones CHECK
+25/7/2026 15:44:11	Recopilando vistas
+25/7/2026 15:44:11	Recopilando vistas cifradas
+25/7/2026 15:44:11	Recopilando índices
+25/7/2026 15:44:11	Recopilando estadísticas
+25/7/2026 15:44:11	Recopilando listas de palabras irrelevantes de índices de texto completo
+25/7/2026 15:44:11	Recopilando listas de propiedades de búsqueda
+25/7/2026 15:44:11	Recopilando propiedades de búsqueda
+25/7/2026 15:44:11	Recopilando índices de texto completo
+25/7/2026 15:44:11	Recopilando índices de almacenamiento de columnas
+25/7/2026 15:44:11	Recopilando índices espaciales
+25/7/2026 15:44:11	Recopilando índices XML
+25/7/2026 15:44:11	Recopilando índices XML selectivos
+25/7/2026 15:44:11	Recopilando desencadenadores cifrados
+25/7/2026 15:44:11	Recopilando desencadenadores
+25/7/2026 15:44:11	Recopilando DDL triggers cifrados y de CLR
+25/7/2026 15:44:11	Recopilando DDL triggers
+25/7/2026 15:44:11	Creación de la restricción perimetral en curso
+25/7/2026 15:44:11	Recopilando sinónimos
+25/7/2026 15:44:11	Recopilando valores predeterminados
+25/7/2026 15:44:11	Recopilando enlaces UDDT de restricción de datos
+25/7/2026 15:44:11	Recopilando reglas
+25/7/2026 15:44:11	Recopilando enlaces UDDT de restricción de datos
+25/7/2026 15:44:11	Recopilando tipos de mensaje
+25/7/2026 15:44:11	Recopilando colas
+25/7/2026 15:44:11	Recopilando contratos
+25/7/2026 15:44:11	Recopilando servicios
+25/7/2026 15:44:11	Recopilando notificaciones de eventos
+25/7/2026 15:44:11	Recopilando enlaces de servicio remoto
+25/7/2026 15:44:11	Recopilando prioridades de Broker
+25/7/2026 15:44:11	Recopilando firmas
+25/7/2026 15:44:11	Recopilando opciones de compresión
+25/7/2026 15:44:11	Recopilando tipos de secuencia
+25/7/2026 15:44:11	Recopilando directivas de seguridad
+25/7/2026 15:44:11	Recopilar claves de cifrado de columna
+25/7/2026 15:44:11	Recopilando claves maestras de columna
+25/7/2026 15:44:11	Recopilando orígenes de datos externos
+25/7/2026 15:44:11	Recopilando formatos de archivo externos
+25/7/2026 15:44:11	Recopilando tablas externas
+25/7/2026 15:44:11	Recopilando opciones de compresión de índice XML
+25/7/2026 15:44:11	Recopilando propiedades extendidas
+25/7/2026 15:44:11	Recopilando ensamblados
+25/7/2026 15:44:11	Recopilando credenciales
+25/7/2026 15:44:11	Recopilando inicios de sesión
+25/7/2026 15:44:11	Recopilando auditorías de servidor
+25/7/2026 15:44:12	Buscando elementos duplicados en el proyecto
+25/7/2026 15:44:12	Ha finalizado el procesamiento de los elementos duplicados
+25/7/2026 15:44:12	Finalizó la importación de la base de datos.
+25/7/2026 15:44:12	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\JORGE N\Documents\MAESTRIA\MODULO-4 DATA MANAGEMENT AND BUSINESS INTELLIGENCE\proyecto\Grupo4\Registros de importación de esquemas\Grupo4_20260725074358.log
+25/7/2026 15:44:12	Haga clic en Finalizar para continuar...

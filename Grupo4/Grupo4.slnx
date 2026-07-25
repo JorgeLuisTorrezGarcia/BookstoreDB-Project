@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Grupo4.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
