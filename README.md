@@ -1,7 +1,7 @@
 # BookstoreDB-Project
 Repositorio académico para la implementación de la base de datos Bookstore.
 
-# 📚 Proyecto Bookstore - Gestión y Analítica de Datos
+# Proyecto Bookstore - Gestión y Analítica de Datos
 
 Este repositorio contiene el diseño, implementación y análisis de la base de datos **Bookstore**, desarrollado como actividad práctica para la Maestría. El proyecto utiliza un enfoque de *Database-as-Code* mediante **SQL Server Database Project** y control de versiones con Git/GitHub.
 
