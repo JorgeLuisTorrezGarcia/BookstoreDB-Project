@@ -1,0 +1,88 @@
+4/8/2026 19:34:51	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'BookstoresDW' del equipo 'LAB46-PC36' por el usuario 'JORGE N'.
+4/8/2026 19:34:51	Se inició la importación del esquema de la base de datos.
+4/8/2026 19:35:02	Recopilando credenciales de la base de datos
+4/8/2026 19:35:02	Recopilando opciones de base de datos
+4/8/2026 19:35:02	Recopilando la opción de configuración de ámbito de la base de datos genérica
+4/8/2026 19:35:02	Recopilando usuarios
+4/8/2026 19:35:02	Recopilando roles
+4/8/2026 19:35:02	Recopilando roles de aplicación
+4/8/2026 19:35:02	Recopilando pertenencias a roles
+4/8/2026 19:35:02	Recopilando grupos de archivos
+4/8/2026 19:35:02	Recopilando catálogos de texto completo
+4/8/2026 19:35:02	Recopilando ensamblados
+4/8/2026 19:35:02	Recopilando certificados
+4/8/2026 19:35:02	Recopilando claves asimétricas
+4/8/2026 19:35:02	Recopilando claves simétricas
+4/8/2026 19:35:02	Recopilando claves simétricas cifradas
+4/8/2026 19:35:02	Recopilando esquemas
+4/8/2026 19:35:02	Recopilando colecciones de esquemas XML
+4/8/2026 19:35:02	Recopilando tipos de datos definidos por el usuario
+4/8/2026 19:35:02	Recopilando tipos definidos por el usuario
+4/8/2026 19:35:02	Recopilando tipos de tabla
+4/8/2026 19:35:02	Recopilando claves únicas para tipos de tabla
+4/8/2026 19:35:02	Recopilando claves principales para tipos de tabla
+4/8/2026 19:35:02	Recopilando índices para tipos de tablas
+4/8/2026 19:35:02	Recopilando restricciones CHECK para tipos de tabla
+4/8/2026 19:35:02	Recopilando restricciones DEFAULT para tipos de tabla
+4/8/2026 19:35:02	Recopilando funciones de partición
+4/8/2026 19:35:02	Recopilando esquemas de partición
+4/8/2026 19:35:02	Recopilando funciones
+4/8/2026 19:35:02	Recopilando funciones cifradas
+4/8/2026 19:35:02	Recopilando agregados
+4/8/2026 19:35:02	Recopilando procedimientos
+4/8/2026 19:35:02	Recopilando procedimientos cifrados
+4/8/2026 19:35:02	Recopilando tablas
+4/8/2026 19:35:02	Recopilando claves principales
+4/8/2026 19:35:02	Recopilando restricciones UNIQUE
+4/8/2026 19:35:02	Recopilando claves externas
+4/8/2026 19:35:02	Recopilando restricciones DEFAULT
+4/8/2026 19:35:02	Recopilando restricciones CHECK
+4/8/2026 19:35:02	Recopilando vistas
+4/8/2026 19:35:02	Recopilando vistas cifradas
+4/8/2026 19:35:02	Recopilando índices
+4/8/2026 19:35:02	Recopilando estadísticas
+4/8/2026 19:35:02	Recopilando listas de palabras irrelevantes de índices de texto completo
+4/8/2026 19:35:02	Recopilando listas de propiedades de búsqueda
+4/8/2026 19:35:02	Recopilando propiedades de búsqueda
+4/8/2026 19:35:02	Recopilando índices de texto completo
+4/8/2026 19:35:02	Recopilando índices de almacenamiento de columnas
+4/8/2026 19:35:02	Recopilando índices espaciales
+4/8/2026 19:35:02	Recopilando índices XML
+4/8/2026 19:35:02	Recopilando índices XML selectivos
+4/8/2026 19:35:02	Recopilando desencadenadores cifrados
+4/8/2026 19:35:02	Recopilando desencadenadores
+4/8/2026 19:35:02	Recopilando DDL triggers cifrados y de CLR
+4/8/2026 19:35:02	Recopilando DDL triggers
+4/8/2026 19:35:02	Creación de la restricción perimetral en curso
+4/8/2026 19:35:02	Recopilando sinónimos
+4/8/2026 19:35:02	Recopilando valores predeterminados
+4/8/2026 19:35:02	Recopilando enlaces UDDT de restricción de datos
+4/8/2026 19:35:02	Recopilando reglas
+4/8/2026 19:35:02	Recopilando enlaces UDDT de restricción de datos
+4/8/2026 19:35:02	Recopilando tipos de mensaje
+4/8/2026 19:35:02	Recopilando colas
+4/8/2026 19:35:02	Recopilando contratos
+4/8/2026 19:35:02	Recopilando servicios
+4/8/2026 19:35:02	Recopilando notificaciones de eventos
+4/8/2026 19:35:02	Recopilando enlaces de servicio remoto
+4/8/2026 19:35:02	Recopilando prioridades de Broker
+4/8/2026 19:35:02	Recopilando firmas
+4/8/2026 19:35:02	Recopilando opciones de compresión
+4/8/2026 19:35:02	Recopilando tipos de secuencia
+4/8/2026 19:35:02	Recopilando directivas de seguridad
+4/8/2026 19:35:02	Recopilar claves de cifrado de columna
+4/8/2026 19:35:02	Recopilando claves maestras de columna
+4/8/2026 19:35:02	Recopilando orígenes de datos externos
+4/8/2026 19:35:02	Recopilando formatos de archivo externos
+4/8/2026 19:35:02	Recopilando tablas externas
+4/8/2026 19:35:02	Recopilando opciones de compresión de índice XML
+4/8/2026 19:35:02	Recopilando propiedades extendidas
+4/8/2026 19:35:02	Recopilando ensamblados
+4/8/2026 19:35:02	Recopilando credenciales
+4/8/2026 19:35:02	Recopilando inicios de sesión
+4/8/2026 19:35:02	Recopilando auditorías de servidor
+4/8/2026 19:35:02	Buscando elementos duplicados en el proyecto
+4/8/2026 19:35:02	Ha finalizado el procesamiento de los elementos duplicados
+4/8/2026 19:35:02	Finalizó la importación de la base de datos.
+4/8/2026 19:35:02	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\JORGE N\Documents\MAESTRIA\MODULO-4 DATA MANAGEMENT AND BUSINESS INTELLIGENCE\proyecto\BookstoresDW\Registros de importación de esquemas\BookstoresDW_20260804113451.log
+4/8/2026 19:35:02	Haga clic en Finalizar para continuar...

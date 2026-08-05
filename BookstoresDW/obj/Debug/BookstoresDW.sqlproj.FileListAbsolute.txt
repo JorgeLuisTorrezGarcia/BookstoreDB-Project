@@ -1,0 +1,10 @@
+C:\Users\JORGE N\Documents\MAESTRIA\MODULO-4 DATA MANAGEMENT AND BUSINESS INTELLIGENCE\proyecto\BookstoresDW\bin\Debug\BookstoresDW.dacpac
+C:\Users\JORGE N\Documents\MAESTRIA\MODULO-4 DATA MANAGEMENT AND BUSINESS INTELLIGENCE\proyecto\BookstoresDW\bin\Debug\BookstoresDW.dll
+C:\Users\JORGE N\Documents\MAESTRIA\MODULO-4 DATA MANAGEMENT AND BUSINESS INTELLIGENCE\proyecto\BookstoresDW\bin\Debug\BookstoresDW.pdb
+C:\Users\JORGE N\Documents\MAESTRIA\MODULO-4 DATA MANAGEMENT AND BUSINESS INTELLIGENCE\proyecto\BookstoresDW\obj\Debug\BookstoresDW.sqlproj.AssemblyReference.cache
+C:\Users\JORGE N\Documents\MAESTRIA\MODULO-4 DATA MANAGEMENT AND BUSINESS INTELLIGENCE\proyecto\BookstoresDW\obj\Debug\Model.xml
+C:\Users\JORGE N\Documents\MAESTRIA\MODULO-4 DATA MANAGEMENT AND BUSINESS INTELLIGENCE\proyecto\BookstoresDW\obj\Debug\refactor.xml
+C:\Users\JORGE N\Documents\MAESTRIA\MODULO-4 DATA MANAGEMENT AND BUSINESS INTELLIGENCE\proyecto\BookstoresDW\obj\Debug\postdeploy.sql
+C:\Users\JORGE N\Documents\MAESTRIA\MODULO-4 DATA MANAGEMENT AND BUSINESS INTELLIGENCE\proyecto\BookstoresDW\obj\Debug\predeploy.sql
+C:\Users\JORGE N\Documents\MAESTRIA\MODULO-4 DATA MANAGEMENT AND BUSINESS INTELLIGENCE\proyecto\BookstoresDW\obj\Debug\BookstoresDW.dll
+C:\Users\JORGE N\Documents\MAESTRIA\MODULO-4 DATA MANAGEMENT AND BUSINESS INTELLIGENCE\proyecto\BookstoresDW\obj\Debug\BookstoresDW.pdb
