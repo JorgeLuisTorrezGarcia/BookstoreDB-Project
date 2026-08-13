@@ -10,6 +10,4 @@
 
 
 GO
-CREATE UNIQUE NONCLUSTERED INDEX [uq_dim_address_address_id]
-    ON [dbo].[dim_address]([address_id] ASC);
 

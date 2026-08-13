@@ -13,6 +13,5 @@
 
 
 GO
-CREATE UNIQUE NONCLUSTERED INDEX [uq_dim_book_book_id]
-    ON [dbo].[dim_book]([book_id] ASC);
+
 
