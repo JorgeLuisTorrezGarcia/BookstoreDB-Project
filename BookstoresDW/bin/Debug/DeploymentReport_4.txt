@@ -1,0 +1,21 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a crear con los datos migrados
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Debe agregarse la columna [staging].[stg_sales].[total_amount] de la tabla [staging].[stg_sales], pero esta columna no
+         tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para
+         evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o
+         habilite la generación de valores predeterminados inteligentes como opción de implementación.
+
+** Acciones del usuario
+     Modificar
+       [staging].[stg_sales] (Tabla)
+
+** Acciones de compatibilidad
+
+Debe agregarse la columna [staging].[stg_sales].[total_amount] de la tabla [staging].[stg_sales], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
+

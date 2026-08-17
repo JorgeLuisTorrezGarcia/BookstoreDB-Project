@@ -1,0 +1,48 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a crear con los datos migrados
+       [staging].[stg_sales]
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Se está quitando la columna [staging].[stg_sales].[book_id]; puede que se pierdan datos.
+       Se está quitando la columna [staging].[stg_sales].[customer_id]; puede que se pierdan datos.
+       Se está quitando la columna [staging].[stg_sales].[dest_address_id]; puede que se pierdan datos.
+       Se está quitando la columna [staging].[stg_sales].[order_date]; puede que se pierdan datos.
+       Debe agregarse la columna [staging].[stg_sales].[book_key] de la tabla [staging].[stg_sales], pero esta columna no tiene
+         un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar
+         esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la
+         generación de valores predeterminados inteligentes como opción de implementación.
+       Debe agregarse la columna [staging].[stg_sales].[customer_key] de la tabla [staging].[stg_sales], pero esta columna no
+         tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para
+         evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o
+         habilite la generación de valores predeterminados inteligentes como opción de implementación.
+       Debe agregarse la columna [staging].[stg_sales].[order_date_key] de la tabla [staging].[stg_sales], pero esta columna no
+         tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para
+         evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o
+         habilite la generación de valores predeterminados inteligentes como opción de implementación.
+       Debe agregarse la columna [staging].[stg_sales].[shipping_address_ke] de la tabla [staging].[stg_sales], pero esta
+         columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no
+         funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita
+         valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
+
+** Acciones del usuario
+     Quitar
+       restricción sin nombre en [staging].[stg_sales] (Restricción DEFAULT)
+     Volver a crear la tabla
+       [staging].[stg_sales] (Tabla)
+
+** Acciones de compatibilidad
+     Crear
+       [staging].[stg_sales].[idx_stg_sales_rowversion] (Índice)
+
+Se está quitando la columna [staging].[stg_sales].[book_id]; puede que se pierdan datos.
+Se está quitando la columna [staging].[stg_sales].[customer_id]; puede que se pierdan datos.
+Se está quitando la columna [staging].[stg_sales].[dest_address_id]; puede que se pierdan datos.
+Se está quitando la columna [staging].[stg_sales].[order_date]; puede que se pierdan datos.
+Debe agregarse la columna [staging].[stg_sales].[book_key] de la tabla [staging].[stg_sales], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
+Debe agregarse la columna [staging].[stg_sales].[customer_key] de la tabla [staging].[stg_sales], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
+Debe agregarse la columna [staging].[stg_sales].[order_date_key] de la tabla [staging].[stg_sales], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
+Debe agregarse la columna [staging].[stg_sales].[shipping_address_ke] de la tabla [staging].[stg_sales], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
+

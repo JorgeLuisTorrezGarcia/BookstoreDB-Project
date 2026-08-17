@@ -4,6 +4,9 @@
     <BuildType Name="Development" />
     <BuildType Name="Release" />
   </Configurations>
+  <Folder Name="/Elementos de la solución/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="../BookstoresDW/BookstoresDW.sqlproj" Id="4e801c9d-e6d4-4071-97fc-7183c2a45b1e">
     <BuildType Solution="Development|*" Project="Release" />
     <Build />

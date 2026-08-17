@@ -9,5 +9,9 @@
 *.user
 *.suo
 
-# SQL Server Database Project
-*.dbmdl
+# Temporary files
+*.userprefs
+*.log
+
+# SQL Database Project generated files
+*.dacpac

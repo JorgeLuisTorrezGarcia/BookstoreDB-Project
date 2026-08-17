@@ -1,0 +1,21 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a crear con los datos migrados
+       [staging].[stg_customer]
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Modificar
+       [dbo].[dim_customer] (Tabla)
+     Volver a crear la tabla
+       [staging].[stg_customer] (Tabla)
+
+** Acciones de compatibilidad
+     Crear
+       [staging].[stg_customer].[idx_stg_customer_rowversion] (Índice)
+     Actualizar
+       [dbo].[DW_MergeDimCustomer] (Procedimiento)

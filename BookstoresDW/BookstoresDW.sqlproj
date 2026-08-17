@@ -64,6 +64,7 @@
     <Folder Include="staging\Tables\" />
     <Folder Include="dbo\Stored Procedures\" />
     <Folder Include="Security\" />
+    <Folder Include="dbo\script" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\dim_date.sql" />
@@ -85,5 +86,8 @@
     <Build Include="Security\staging.sql" />
     <Build Include="dbo\Stored Procedures\DW_MergeDimCustomer.sql" />
     <Build Include="dbo\Stored Procedures\DW_MergeDimAddress.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dbo\script\dimDate.data.sql" />
   </ItemGroup>
 </Project>
